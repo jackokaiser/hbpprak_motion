@@ -18,5 +18,5 @@ def set_neuron_voltage(t, input0, input1, input2, model_states):
             input1.amplitude = 2.0
         else:
             input0.amplitude = 2.0
-    except ValueError, AttributeError:
+    except (ValueError, AttributeError):
         input2.amplitude = 2.0

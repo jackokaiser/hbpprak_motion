@@ -4,7 +4,7 @@
   <ns1:thumbnail>ExDTemplateManipulation.jpg</ns1:thumbnail>
   <ns1:description>Hit a ball as far as possible with a tennis racket</ns1:description>
   <ns1:tags>hollie robotics</ns1:tags>
-  <ns1:timeout>840.0</ns1:timeout>
+  <ns1:timeout>3600.0</ns1:timeout>
   <ns1:configuration src="ExDTemplateManipulation.3ds" type="3d-settings"/>
   <ns1:maturity>development</ns1:maturity>
   <ns1:environmentModel src="empty_world/empty_world.sdf">
